@@ -2,50 +2,57 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>PayloadContent</key>
-    <array>
-        <dict>
-            <key>FullScreen</key>
-            <true/>
-            <key>Icon</key>
-            <data>
-            </data>
-            <key>IsRemovable</key>
-            <true/>
-            <key>Label</key>
-            <string>サガン鳥栖公式</string>
-            <key>PayloadDescription</key>
-            <string>サガン鳥栖公式Webクリップ</string>
-            <key>PayloadDisplayName</key>
-            <string>サガン鳥栖公式</string>
-            <key>PayloadIdentifier</key>
-            <string>jp.co.kidea.sagantosu.webclip</string>
-            <key>PayloadType</key>
-            <string>com.apple.webClip.managed</string>
-            <key>PayloadUUID</key>
-            <string>8B8E3C6E-9A1B-4E7E-9E2B-1B7E12345678</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>Precomposed</key>
-            <true/>
-            <key>URL</key>
-            <string>
-https://kideajp0.sharepoint.com/:u:/r/sites/KANTARO/Shared%20Documents/hanaco%EF%BC%88%E7%A4%BE%E5%86%85%E3%83%BBKIT%EF%BC%89/%E7%A7%8B%E4%B8%B8%E6%A4%9C%E8%A8%BC%E7%94%A8/app-release.apk?csf=1&web=1&e=wfPVsl
-            </string>
-        </dict>
-    </array>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadType</key>
+      <string>com.apple.webClip.managed</string>
 
-    <key>PayloadDisplayName</key>
-    <string>サガン鳥栖公式 WebClip</string>
-    <key>PayloadIdentifier</key>
-    <string>jp.co.kidea.sagantosu.profile</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadUUID</key>
-    <string>4C3F1D1A-6A42-4D89-9B8C-7A1234567890</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+
+      <key>PayloadIdentifier</key>
+      <string>jp.co.kidea.sagantosu.webclip</string>
+
+      <key>PayloadUUID</key>
+      <string>3B6E2D8A-7E64-4D1B-9F6A-6B0F7C2B5E11</string>
+
+      <key>PayloadDisplayName</key>
+      <string>サガン鳥栖公式</string>
+
+      <key>Label</key>
+      <string>サガン鳥栖公式</string>
+
+      <key>URL</key>
+      <string>https://akimarumanato.github.io/</string>
+
+      <key>IsRemovable</key>
+      <true/>
+
+      <key>FullScreen</key>
+      <true/>
+
+      <key>Precomposed</key>
+      <true/>
+    </dict>
+  </array>
+
+  <key>PayloadType</key>
+  <string>Configuration</string>
+
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+
+  <key>PayloadIdentifier</key>
+  <string>jp.co.kidea.sagantosu.profile</string>
+
+  <key>PayloadUUID</key>
+  <string>0E9D42C1-3F2E-4C5C-A0B4-0BCA9C2E7D10</string>
+
+  <key>PayloadDisplayName</key>
+  <string>サガン鳥栖公式 WebClip</string>
+
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
 </dict>
 </plist>
