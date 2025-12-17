@@ -1,0 +1,1 @@
+# sagan-tosu-install
