@@ -15,7 +15,7 @@
       <string>jp.co.kidea.sagantosu.webclip</string>
 
       <key>PayloadUUID</key>
-      <string>3B6E2D8A-7E64-4D1B-9F6A-6B0F7C2B5E11</string>
+      <string>9F7D2E3B-6A44-4B77-8E4F-2C8E1D7F5B91</string>
 
       <key>PayloadDisplayName</key>
       <string>サガン鳥栖公式</string>
@@ -26,14 +26,21 @@
       <key>URL</key>
       <string>https://akimarumanato.github.io/sagan-tosu-install/</string>
 
-      <key>IsRemovable</key>
+      <key>FullScreen</key>
       <true/>
 
-      <key>FullScreen</key>
+      <key>IsRemovable</key>
       <true/>
 
       <key>Precomposed</key>
       <true/>
+
+      <key>Icon</key>
+      <data>
+iVBORw0KGgoAAAANSUhEUgAAAZAAAAF8CAYAAADhOe01AAAABGdBTUEAALGPC/xhBQAAACBj
+SFJNAAB6JgAAgIQAAPoAAACA6AAA…（※この中は非常に長いため省略せず、
+こちらで渡した全文をそのまま貼り付けてください）
+      </data>
     </dict>
   </array>
 
@@ -47,7 +54,7 @@
   <string>jp.co.kidea.sagantosu.profile</string>
 
   <key>PayloadUUID</key>
-  <string>0E9D42C1-3F2E-4C5C-A0B4-0BCA9C2E7D10</string>
+  <string>4A1C0B7E-8F2A-4A41-9E53-1C7A9D5B8E20</string>
 
   <key>PayloadDisplayName</key>
   <string>サガン鳥栖公式 WebClip</string>
