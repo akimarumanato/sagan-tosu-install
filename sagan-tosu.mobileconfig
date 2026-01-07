@@ -9,7 +9,7 @@
   <key>PayloadIdentifier</key>
   <string>jp.co.kidea.sagantosu.profile</string>
   <key>PayloadUUID</key>
-  <string>F2B5C1A4-7E4C-4D4C-9A38-9E5A7D0C1E11</string>
+  <string>F7C8D9A1-2B3C-4D5E-9A0B-1C2D3E4F5A67</string>
   <key>PayloadDisplayName</key>
   <string>サガン鳥栖 WebClip</string>
   <key>PayloadOrganization</key>
@@ -23,13 +23,13 @@
   <array>
     <dict>
       <key>PayloadType</key>
-      <string>com.apple.webClip</string>
+      <string>com.apple.webClip.managed</string>
       <key>PayloadVersion</key>
       <integer>1</integer>
       <key>PayloadIdentifier</key>
       <string>jp.co.kidea.sagantosu.webclip</string>
       <key>PayloadUUID</key>
-      <string>9D2E1B7A-6A3D-4F2A-9B5A-1E4C7D8F2A10</string>
+      <string>9A8B7C6D-5E4F-3A2B-1C0D-9E8F7A6B5C4D</string>
       <key>PayloadDisplayName</key>
       <string>サガン鳥栖</string>
 
