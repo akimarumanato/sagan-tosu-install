@@ -7,9 +7,9 @@
   <key>PayloadVersion</key>
   <integer>1</integer>
   <key>PayloadIdentifier</key>
-  <string>jp.co.kidea.sagantosu.profile.v2</string>
+  <string>jp.co.kidea.sagantosu.profile.v3</string>
   <key>PayloadUUID</key>
-  <string>11111111-2222-3333-4444-555555555555</string>
+  <string>22222222-3333-4444-5555-666666666666</string>
   <key>PayloadDisplayName</key>
   <string>サガン鳥栖 WebClip</string>
   <key>PayloadOrganization</key>
@@ -27,16 +27,18 @@
       <key>PayloadVersion</key>
       <integer>1</integer>
       <key>PayloadIdentifier</key>
-      <string>jp.co.kidea.sagantosu.webclip.v2</string>
+      <string>jp.co.kidea.sagantosu.webclip.v3</string>
       <key>PayloadUUID</key>
-      <string>AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE</string>
+      <string>BBBBBBBB-CCCC-DDDD-EEEE-FFFFFFFFFFFF</string>
       <key>PayloadDisplayName</key>
       <string>サガン鳥栖</string>
 
       <key>Label</key>
       <string>サガン鳥栖</string>
+
+      <!-- ★ここが変更点：遷移先URL -->
       <key>URL</key>
-      <string>https://akimarumanato.github.io/sagan-tosu-install/</string>
+      <string>https://fanclub.sagan-tosu.app/</string>
 
       <key>FullScreen</key>
       <true/>
