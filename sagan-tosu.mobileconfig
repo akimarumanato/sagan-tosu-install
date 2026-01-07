@@ -9,7 +9,7 @@
   <key>PayloadIdentifier</key>
   <string>jp.co.kidea.sagantosu.profile</string>
   <key>PayloadUUID</key>
-  <string>8F2A3D9A-7C7E-4F7A-9E6A-2F0B6E2F5C11</string>
+  <string>F2B5C1A4-7E4C-4D4C-9A38-9E5A7D0C1E11</string>
   <key>PayloadDisplayName</key>
   <string>サガン鳥栖 WebClip</string>
   <key>PayloadOrganization</key>
@@ -29,16 +29,19 @@
       <key>PayloadIdentifier</key>
       <string>jp.co.kidea.sagantosu.webclip</string>
       <key>PayloadUUID</key>
-      <string>1B4C9B75-2A3D-4F35-9A5A-7B3E1D2C4A10</string>
+      <string>9D2E1B7A-6A3D-4F2A-9B5A-1E4C7D8F2A10</string>
       <key>PayloadDisplayName</key>
       <string>サガン鳥栖</string>
-      <key>PayloadDescription</key>
-      <string>サガン鳥栖 Webサイトへのショートカット</string>
 
       <key>Label</key>
       <string>サガン鳥栖</string>
       <key>URL</key>
       <string>https://akimarumanato.github.io/sagan-tosu-install/</string>
+
+      <key>Icon</key>
+      <data>
+      iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=
+      </data>
 
       <key>FullScreen</key>
       <true/>
